@@ -52,3 +52,5 @@ while(stop == False):
   counter += race(infitte)
 
 print('\nSe nececistan minimo: ', counter, 'carreras')
+
+#no pude con los grafos :(
