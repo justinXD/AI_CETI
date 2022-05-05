@@ -1,5 +1,5 @@
 import random
-
+#from graph.Graph import Graph
 
 a = [0, 0, 0, 0, 0]
 b = [0, 0, 0, 0, 0]
